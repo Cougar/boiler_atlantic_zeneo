@@ -1,4 +1,4 @@
-## [Atlantic](https://www.atlantic-comfort.com/) [ZENEO](https://www.atlantic-comfort.com/Our-products/Water-heating/Electric-water-heaters/Zeneo) Water Boiler Power Board
+## [Atlantic](https://www.atlantic-comfort.com/) [ZENEO](https://www.atlantic-comfort.com/Water-Heaters/CLASSICAL-ELECTRIC-WATER-HEATERS/Zeneo-NEW) Water Boiler Power Board
 Reverse engineered power board schematics from PCBs. Not 100% accurate!
 
 #### 230V Board
